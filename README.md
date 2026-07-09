@@ -3,7 +3,7 @@
 ### Sobre mim
 Estou em um momento empolgante de **transição de carreira** para a área de tecnologia, focando em garantir a qualidade de software e otimizar processos. 
 
-* **🎯 Foco Atual:** Testes Automatizados e RPA (Robotic Process Automation).
+* **🎯 Foco Atual:** RPA (Robotic Process Automation) e Frontend.
 * **📚 Estudando:** Playwright, Selenium e Python.
 * **🛠️ Objetivo:** Criar soluções que unam eficiência através da automação e uma experiência de usuário impecável.
 
