@@ -1,11 +1,11 @@
-# Olá, eu sou a Mariane Oliveira! 👋 (@marianeoliveira23)
+# Olá, eu sou a Mariane Oliveira! (@marianeoliveira23)
 
 ### Sobre mim
 Estou em um momento empolgante de **transição de carreira** para a área de tecnologia, focando em garantir a qualidade de software e otimizar processos. 
 
-* **🎯 Foco Atual:** RPA (Robotic Process Automation) e Frontend.
-* **📚 Estudando:** Playwright, Selenium e Python.
-* **🛠️ Objetivo:** Criar soluções que unam eficiência através da automação e uma experiência de usuário impecável.
+* ** Foco Atual:** RPA (Robotic Process Automation) e Front-end.
+* ** Estudando:** Playwright, Selenium e Python.
+* ** Objetivo:** Criar soluções que unam eficiência através da automação e uma experiência de usuário satisfatória.
 
 ---
 
